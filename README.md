@@ -20,6 +20,7 @@
 
 
 <p>The position at KOSEC involves, building strong relationships with Accountants and Financial Planners to establish new business channels, the ability to conduct conferences and semenars, and to close and sell marketing campaigns to new clients. This job is desirable to me as I would like a job allowing me to have constant interactions with clients and the ability to build relationships with them, it is also fairly high paying and allows me to travel through work which is an added bonus.<p>
+<img src="" alt="" width="104" height="142">
 
 <p>This job requires a great amount of experience, you need to have a proven history of dealing with clients in stockbroking and extensive experience in the stock market as well as experience in increasing sales and profits.</p>
 <p>So far in my developement I am yet to complete any of the required qualifications for this job, although I have begun to learn some skills through my various part time jobs. This skills mainly involved customer service and how to deal with people, which will be helpful in almost any future job I get.
