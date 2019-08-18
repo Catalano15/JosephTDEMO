@@ -4,6 +4,7 @@
 <body>
 
 <h1>Personal Information</h1>
+<p> <img src="https://user-images.githubusercontent.com/53844492/63225630-5785d080-c215-11e9-8cc6-6d9eb0e35c43.png" alt="Photo of me" width="250" height="350"</p>
 <ul>
   <li>Giuseppe Catalano</li>
   <li>s3659220</li>
