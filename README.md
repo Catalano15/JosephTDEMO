@@ -17,7 +17,7 @@
   
 <h2>Ideal Job</h2>
 <p>My <a href="https://www.seek.com.au/job/39676985?searchrequesttoken=92cd5589-51d2-492e-9bdc-20c7efc7d3dc&type=standout">Ideal Job</a> would be one in the stock market, so the one I have picked for this project is a Senior Associate at the company KOSEC.</p>
-<img src="https://user-images.githubusercontent.com/53844492/63185793-3f3f7580-c09e-11e9-8212-4693826fef3f.png" alt="Ideal Job" width="104" height="142">
+<img src="https://user-images.githubusercontent.com/53844492/63185793-3f3f7580-c09e-11e9-8212-4693826fef3f.png" alt="Ideal Job" width="400" height="500">
 
 <p>The position at KOSEC involves, building strong relationships with Accountants and Financial Planners to establish new business channels, the ability to conduct conferences and semenars, and to close and sell marketing campaigns to new clients. This job is desirable to me as I would like a job allowing me to have constant interactions with clients and the ability to build relationships with them, it is also fairly high paying and allows me to travel through work which is an added bonus.<p>
 <img src="" alt="" width="134" height="182">
@@ -27,7 +27,9 @@
  
 <h2>Personal Profile</h2>
 <h3> Myers-Briggs Test<h/3>
-  
+<p> <img src="https://user-images.githubusercontent.com/53844492/63223618-d2da8880-c1fb-11e9-99da-f1bd6cb7a074.png" alt="Myers-Briggs Test" width="500" height="350" </p>
+<h3> Learning Test<h/3>
+<p> <img src="https://user-images.githubusercontent.com/53844492/63223618-d2da8880-c1fb-11e9-99da-f1bd6cb7a074.png" alt="Learning Test" width="500" height="350" </p>
   
 </body>
 </html>
