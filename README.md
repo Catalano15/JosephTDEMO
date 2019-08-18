@@ -1,4 +1,4 @@
-# My Profile, Giuseppe Catalano
+# My Profile - Giuseppe Catalano
 <!DOCTYPE html>
 <html>
 <body>
