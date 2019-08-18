@@ -31,7 +31,7 @@
 <h3>Learning Test<h/3>
 <p> <img src="https://user-images.githubusercontent.com/53844492/63223797-4087b400-c1fe-11e9-95e5-081ad57f3391.png" alt="Learning Test" width="250" height="250" </p>
 <h3>Big Five Personality Test</h3>
-
+<p> <img src="https://user-images.githubusercontent.com/53844492/63225462-adf20f80-c213-11e9-8170-c56a34849f8b.png" alt="Big Five" width="250" height="250"
 <p> The results of the personality and learning tests shown above have agreed with what I have already believed to be my ideal learning situations and my personality type. These results will influence my behaviour when working in a team as it will allow me to work to my strengths and the knowledge of my weakness' will help me form a team to counteract them.</p>
 <p>As the Myers-Briggs test showed I am an ISFP type, I can play to the traits in a team environment such as, being able to take a back seat and "go with the flow" of the group allowing others to take lead. Due to these traits I am compatible with those that have ESFJ personality types due to their high organisation skills and ability to be outspoken, thus when forming groups I should look to pair with this type or one similar.</p>
 
