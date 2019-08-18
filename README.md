@@ -29,7 +29,7 @@
 <h3> Myers-Briggs Test<h/3>
 <p> <img src="https://user-images.githubusercontent.com/53844492/63223618-d2da8880-c1fb-11e9-99da-f1bd6cb7a074.png" alt="Myers-Briggs Test" width="500" height="350" </p>
 <h3> Learning Test<h/3>
-<p> <img src="https://user-images.githubusercontent.com/53844492/63223618-d2da8880-c1fb-11e9-99da-f1bd6cb7a074.png" alt="Learning Test" width="500" height="350" </p>
+<p> <img src="https://user-images.githubusercontent.com/53844492/63223797-4087b400-c1fe-11e9-95e5-081ad57f3391.png" alt="Learning Test" width="250" height="250" </p>
   
 </body>
 </html>
